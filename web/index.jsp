@@ -1,0 +1,25 @@
+<%-- 
+    Document   : index
+    Created on : 23-mar-2021, 20:08:44
+    Author     : Wilber-Zruc
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <h1>Bienvenido al sitio Web</h1>
+        <a href="login.jsp">Login</a>
+        <p>Lorem Ipsum ha sido el texto de relleno estándar 
+            de las industrias desde el año 1500, cuando un impresor 
+            desconocido usó una galería de textos y los mezcló 
+            de tal manera que logró hacer un libro de textos especimen. 
+            No sólo sobrevivió 500 años, sino que tambien ingresó 
+            como texto de relleno en documentos electrónicos, 
+            quedando esencialmente igual al original.</p>
+    </body>
+</html>
