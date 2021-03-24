@@ -1,9 +1,3 @@
-<%-- 
-    Document   : login
-    Created on : 23-mar-2021, 20:14:02
-    Author     : Wilber-Zruc
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
